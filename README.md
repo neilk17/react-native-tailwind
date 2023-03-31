@@ -1,2 +1,2 @@
 # react-native-tailwind
-A UI library for React Native using Tailwind CSS
+An Open Source React Native UI library built with Tailwind CSS
